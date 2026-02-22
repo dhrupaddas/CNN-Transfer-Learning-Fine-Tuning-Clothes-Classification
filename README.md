@@ -1,1 +1,1 @@
-# -CNN-Transfer-Learning-Fine-Tuning-Clothes-Classification
+# CNN-Transfer-Learning-Fine-Tuning-Clothes-Classification
